@@ -24,7 +24,7 @@ const users = {
       'I live and work at the Treasury as a mouser but I also have a paw in the finances. Here to help lighten up the political world. Unofficial.',
     followingIds: ['diplomog', 'giantcat9'],
     followerIds: ['diplomog', 'giantcat9'],
-    likeIds: ['1209791721099411456'],
+    likeIds: ['1209791721099411456']
   },
   giantcat9: {
     handle: 'giantcat9',
